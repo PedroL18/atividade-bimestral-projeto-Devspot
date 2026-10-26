@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "DevSpot",
+    "slug": "devspot",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#020B1A",
+    "platforms": ["ios", "android", "web"]
+  }
+}
